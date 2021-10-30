@@ -1,4 +1,3 @@
-this is about introduction.
+CHAPTER 1:
 
-Hi I am gaurav sharma, an android developer.
-Trying to learn web development.
+There was a thirsty cow.
